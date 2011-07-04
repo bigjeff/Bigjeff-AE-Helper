@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\jeffrey\Documents\BattleCalculator-5.5.1\|ftp://bigjeff.co.uk/home/bigjeff789/public_html/trade/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.bigjeff.co.uk/trade/|http://www.bigjeff.co.uk/trade/ae_helper/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
