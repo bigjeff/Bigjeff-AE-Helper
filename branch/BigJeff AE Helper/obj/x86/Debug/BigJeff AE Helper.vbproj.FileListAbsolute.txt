@@ -33,3 +33,19 @@ C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.exe.manifest
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.application
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.exe
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.xml
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.pdb
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.exe.manifest
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.application
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.exe
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.pdb
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.xml
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.Home.resources
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.Resources.resources
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.trade.resources
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.exe.manifest
+D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.application
