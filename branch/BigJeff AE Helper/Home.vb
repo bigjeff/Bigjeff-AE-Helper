@@ -7,11 +7,12 @@ Public Class Home
     Dim myCommand As New MySqlCommand
     Dim myReader As MySqlDataReader
 
+
     Dim SQL As String
     Dim result As String
 
 
-    Private Sub Button2_Click(sender As System.Object, e As System.EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As System.Object, e As System.EventArgs)
 
     End Sub
 
@@ -58,5 +59,43 @@ Public Class Home
         Finally
             conn.Dispose()
         End Try
+
+        ToolStripStatusLabel1.Text = "Status"
+
+
+
+
+
+
+    End Sub
+
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
+        Dim defencess As defence
+        defencess = New defence()
+        defencess.Show()
+        defencess = Nothing
+
+        Me.Hide()
+    End Sub
+
+    Private Sub Button1_MouseHover(sender As System.Object, e As System.EventArgs) Handles Button1.MouseHover
+        ToolStripStatusLabel1.Text = "Calc Trades"
+    End Sub
+
+    Private Sub Button1_MouseLeave(sender As System.Object, e As System.EventArgs) Handles Button1.MouseLeave
+        ToolStripStatusLabel1.Text = ""
+    End Sub
+
+    Private Sub ToolStripProgressBar1_Click(sender As System.Object, e As System.EventArgs)
+
+    End Sub
+
+    Private Sub Button2_Click_1(sender As System.Object, e As System.EventArgs) Handles Button2.Click
+        Dim defencess As login
+        defencess = New login()
+        defencess.Show()
+        defencess = Nothing
+
+        Me.Hide()
     End Sub
 End Class

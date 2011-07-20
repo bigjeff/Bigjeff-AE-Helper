@@ -49,3 +49,7 @@ D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\GenerateRe
 D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.exe.manifest
 D:\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff AE Helper.application
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Debug\BigJeff AE Helper.exe.config
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.defence.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.login.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.ems.resources
