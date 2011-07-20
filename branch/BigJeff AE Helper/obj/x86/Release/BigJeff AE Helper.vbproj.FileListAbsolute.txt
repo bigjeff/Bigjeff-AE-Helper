@@ -1,0 +1,18 @@
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.exe.config
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.exe.manifest
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.application
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.exe
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.pdb
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\bin\Release\BigJeff AE Helper.xml
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff_AE_Helper.defence.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff_AE_Helper.Home.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff_AE_Helper.Resources.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff_AE_Helper.trade.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff AE Helper.exe.manifest
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff AE Helper.application
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff AE Helper.exe
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff AE Helper.xml
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Release\BigJeff AE Helper.pdb

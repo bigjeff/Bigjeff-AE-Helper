@@ -22,88 +22,100 @@ Partial Class Home
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
+        Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.StatusStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(58, 9)
+        Me.Label1.Location = New System.Drawing.Point(40, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(90, 13)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "BigJeff AE Helper"
         '
-        'ContextMenuStrip1
-        '
-        Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
-        '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 76)
+        Me.Button1.Location = New System.Drawing.Point(12, 35)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 4
         Me.Button1.Text = "Trade"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
-        '
-        Me.Button2.Location = New System.Drawing.Point(134, 76)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 5
-        Me.Button2.Text = "Level"
-        Me.Button2.UseVisualStyleBackColor = True
-        Me.Button2.Visible = False
-        '
         'Label2
         '
-        Me.Label2.Location = New System.Drawing.Point(12, 102)
+        Me.Label2.Location = New System.Drawing.Point(12, 120)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(197, 90)
+        Me.Label2.Size = New System.Drawing.Size(197, 57)
         Me.Label2.TabIndex = 6
         '
-        'DataGridView1
+        'Button3
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Enabled = False
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 25)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(71, 45)
-        Me.DataGridView1.TabIndex = 7
-        Me.DataGridView1.Visible = False
+        Me.Button3.Location = New System.Drawing.Point(12, 64)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 7
+        Me.Button3.Text = "Defences"
+        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.Visible = False
+        '
+        'StatusStrip1
+        '
+        Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripStatusLabel1})
+        Me.StatusStrip1.Location = New System.Drawing.Point(0, 179)
+        Me.StatusStrip1.Name = "StatusStrip1"
+        Me.StatusStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional
+        Me.StatusStrip1.Size = New System.Drawing.Size(189, 22)
+        Me.StatusStrip1.TabIndex = 8
+        Me.StatusStrip1.Text = "StatusStrip1"
+        '
+        'ToolStripStatusLabel1
+        '
+        Me.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
+        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(0, 17)
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(102, 35)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 9
+        Me.Button2.Text = "EMS"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'Home
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(221, 201)
-        Me.Controls.Add(Me.DataGridView1)
+        Me.ClientSize = New System.Drawing.Size(189, 201)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.StatusStrip1)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Home"
         Me.Text = "Welcome"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.StatusStrip1.ResumeLayout(False)
+        Me.StatusStrip1.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents ContextMenuStrip1 As System.Windows.Forms.ContextMenuStrip
     Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Label2 As System.Windows.Forms.Label
-    Friend WithEvents DataGridView1 As System.Windows.Forms.DataGridView
+    Friend WithEvents Button3 As System.Windows.Forms.Button
+    Friend WithEvents StatusStrip1 As System.Windows.Forms.StatusStrip
+    Friend WithEvents ToolStripStatusLabel1 As System.Windows.Forms.ToolStripStatusLabel
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
