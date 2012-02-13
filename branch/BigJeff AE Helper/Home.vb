@@ -10,6 +10,8 @@ Public Class Home
 
     Dim SQL As String
     Dim result As String
+    Public String1 As String
+
 
 
     Private Sub Button2_Click(sender As System.Object, e As System.EventArgs)
@@ -91,11 +93,19 @@ Public Class Home
     End Sub
 
     Private Sub Button2_Click_1(sender As System.Object, e As System.EventArgs) Handles Button2.Click
-        Dim defencess As login
-        defencess = New login()
+        Dim defencess As ems
+        defencess = New ems()
         defencess.Show()
         defencess = Nothing
 
-        Me.Hide()
+
+    End Sub
+
+    Private Sub Button4_Click(sender As System.Object, e As System.EventArgs) Handles Button4.Click
+        Dim setting As Form1
+        setting = New Form1()
+        setting.Show()
+        setting = Nothing
+
     End Sub
 End Class

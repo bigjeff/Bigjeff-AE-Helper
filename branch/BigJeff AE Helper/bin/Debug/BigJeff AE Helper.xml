@@ -17,7 +17,11 @@ BigJeffAEHelper
 </summary>
 </member><member name="P:BigJeff_AE_Helper.My.Resources.Resources.String1">
 	<summary>
-  Looks up a localized string similar to  .
+  Looks up a localized string similar to  InsertNicK.
+</summary>
+</member><member name="P:BigJeff_AE_Helper.My.Resources.Resources.TextFile1">
+	<summary>
+  Looks up a localized string similar to .
 </summary>
 </member><member name="T:BigJeff_AE_Helper.My.Resources.Resources">
 	<summary>

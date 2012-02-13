@@ -53,3 +53,4 @@ C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.defence.resources
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.login.resources
 C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.ems.resources
+C:\Users\Jeffrey\Documents\ae helper\Bigjeff-AE-Helper\branch\BigJeff AE Helper\obj\x86\Debug\BigJeff_AE_Helper.Form1.resources
